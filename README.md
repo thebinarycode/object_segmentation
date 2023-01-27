@@ -3,7 +3,7 @@ Instance segmentation model training using UNET or FCN_8 architecture
 
 Goal: To build/train custom Instance segmentation model
 
-Build dataset: You can use LabelImg for tagging the objects in the image Refer the link below for installation and dataset preparation https://github.com/heartexlabs/labelImg
+Build dataset: You can use LabelMe for tagging the objects in the image Refer the link below for installation and dataset preparation https://github.com/wkentaro/labelme
 
 To train in a model directly, TrainModel.py file can be used
 
