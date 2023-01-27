@@ -16,6 +16,6 @@ Steps to execute:
     Command to build the image from DockerFile: docker build -t [preferred container name] .
     Command to run the container image in interactive type: docker run -it [assigned container name] bash
     
-refernce/credits:
+reference/credits:
 https://github.com/seth814/Semantic-Shapes
 
